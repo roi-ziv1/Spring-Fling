@@ -1,0 +1,43 @@
+# SPRING FLING
+
+
+## ALON
+* Game Manager
+* UI Manager
+* UI (icons, names, scores)
+* Fly Prefabs
+* FrogTongue
+* Buttons
+* Input manager
+* Flycreator
+* Jump
+* Rotation
+* Respawn
+* Timer
+
+## ROI
+* UI animation
+* Frog animation
+* Rotation
+* Text disappears before game starts
+* Stopping player movement before starting a game 
+
+## RON
+* Game audio
+* Superfly and frogs audio
+* Restart
+* Rotation
+
+## DIFFICULTIES
+* Synchronization between developers
+* Synchronization between developers and designers
+* Dealing with the input manager for the first time
+* Miluim(Ron)
+  
+## FEEDBACKS:
+* The timer is not noticeable during the game -  changing the timer to bar
+* No meaning for opponent - fewer flies and hitting the other player lowers drops him one point
+
+## PLAYTEST
+* The color of the frog is too similar to the leaf - change the color of the frog to blue
+* Jumping to slowly - we increased the jump and deleted the energy system

@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 5a078aa107d234c27be47bf67b7f3c04
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump red 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2991.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3af178cb1d46408bb0d993b28fd9af3
+      internalID: 1418231352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_1
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2991.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665ca0e4f4e734cc0b599f1596e193ba
+      internalID: 1966205648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_2
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2991.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eddd75cfb4c1442180f04771dabea3e
+      internalID: -653197573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_3
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2991.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa79543ee2524a7ba8b8a489dea2330
+      internalID: -1436143909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2244.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb2c4af156da45dcaa7a7b2a44b62c1
+      internalID: -1163704175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_5
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2244.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49087e0a3eb4b41dfbdbf4a0d11aea30
+      internalID: -752349399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_6
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2244.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa6f5fc7554d44658519b788e644cb5
+      internalID: -60794507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_7
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2244.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19fe6a0e641544dbbfef8a54b870dda
+      internalID: -748304103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1497.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55ff356bd26043a5bb519aaf3c81d0e
+      internalID: -1251357159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_9
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1497.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b4c6e65967a4d459a188db41600d4c
+      internalID: 94604160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_10
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1497.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f0b90be8d749228ce50aae1d7f8b3
+      internalID: 1523424639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_11
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1497.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af97beffa974efca829a63095d7897
+      internalID: 834976422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4be1814d0b341139ba77d502d63d38
+      internalID: -1289290235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_13
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 750.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651dc82b5f03f4753b5d6c696d9df170
+      internalID: -132282822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_14
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 750.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152351edbf0244c2aa312f90a817e388
+      internalID: 563625790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_15
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 750.2
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc802e5846cc6410a8facf06949e06fa
+      internalID: 1878001588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.2000122
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff694128180184aa181c626f179a8fb1
+      internalID: -1998349634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_17
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3.2000122
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256bba33e0c6a45fbbf2ce7d28492e6b
+      internalID: 662241185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_18
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3.2000122
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a2fa769928486192f5dc146472d55
+      internalID: 1141694273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump red 1_19
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3.2000122
+        width: 748.75
+        height: 747.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eab64936da64663b36c964ed17ed49
+      internalID: 301254466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9b02cd60f8614a31913d0c4a6bc8884
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jump red 1_0: 1418231352
+      jump red 1_1: 1966205648
+      jump red 1_10: 1523424639
+      jump red 1_11: 834976422
+      jump red 1_12: -1289290235
+      jump red 1_13: -132282822
+      jump red 1_14: 563625790
+      jump red 1_15: 1878001588
+      jump red 1_16: -1998349634
+      jump red 1_17: 662241185
+      jump red 1_18: 1141694273
+      jump red 1_19: 301254466
+      jump red 1_2: -653197573
+      jump red 1_3: -1436143909
+      jump red 1_4: -1163704175
+      jump red 1_5: -752349399
+      jump red 1_6: -60794507
+      jump red 1_7: -748304103
+      jump red 1_8: -1251357159
+      jump red 1_9: 94604160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
